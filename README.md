@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StrangeRatan
+- 👋 Hi, I’m Ratan Kumar Yadav
 - 👀 I’m interested in Software Develepoment
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
